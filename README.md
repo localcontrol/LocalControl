@@ -1,16 +1,26 @@
-## Hi there 👋
-
-<!--
-**localcontrol/LocalControl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Функции
+Замки
+Открыть / закрыть
+Инициализация, синхронизация времени, чтение батареи
+IC-карты
+Отпечатки пальцев
+PIN-коды (4–9 цифр)
+Расписания доступа (ежедневно / по дням недели)
+Статус: онлайн/офлайн, RSSI, батарея, версия прошивки
+Шлюзы
+Добавление: BLE-скан, mDNS, импорт из облака TTLock
+Удаление офлайн-шлюзов, перезагрузка
+OTA-обновление прошивки (в т.ч. принудительное)
+Лог шлюза
+Журнал аварийных перезагрузок
+Raw BLE hex
+Мастер диагностики (ZIP для техподдержки)
+Аудит и безопасность
+Журнал действий, экспорт в CSV
+Активные сессии
+Контроль доступа по IP (whitelist / аварийный выключатель)
+Резервное копирование (зашифрованное)
+Factory reset
+Интеграции
+Токены API (Home Assistant, PMS и др.)
+Встраивание в iframe
