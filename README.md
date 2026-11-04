@@ -1,9 +1,9 @@
 ## Шлюзы / Gateways & Веб-интерфейс / Web UI
 <p>
-<img src="docs/img/localcontrol.png" width="24%">
-<img src="docs/img/0.png" width="24%">
-<img src="docs/img/1.png" width="24%">
-<img src="docs/img/2.png" width="24%">
+<img src="docs/img/localcontrol.png" height="170">
+<img src="docs/img/0.png" height="170">
+<img src="docs/img/1.png" height="170">
+<img src="docs/img/2.png" height="170">
 </p>
 
 # LocalControl
@@ -98,8 +98,8 @@ TTLock является товарным знаком его владельца.
 
 ## Шлюзы / Gateways & Веб-интерфейс / Web UI
 <p>
-<img src="docs/img/localcontrol.png" width="24%">
-<img src="docs/img/0.png" width="24%">
-<img src="docs/img/1.png" width="24%">
-<img src="docs/img/2.png" width="24%">
+<img src="docs/img/localcontrol.png" height="170">
+<img src="docs/img/0.png" height="170">
+<img src="docs/img/1.png" height="170">
+<img src="docs/img/2.png" height="170">
 </p>
