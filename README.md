@@ -87,3 +87,11 @@ LocalControl — система управления доступом на ба�
 TTLock is a trademark of its respective owner. LocalControl is an independent project and is not affiliated with, endorsed by, or sponsored by TTLock.
 
 TTLock является товарным знаком его владельца. LocalControl — независимый проект, не связанный с TTLock и не одобренный или спонсируемый им.
+
+## Шлюзы / Gateways
+<img src="docs/img/localcontrol.jpg" width="320">
+
+## Веб-интерфейс / Web UI
+![Dashboard](docs/img/0.png)
+![Locks](docs/img/1.png)
+![Locks](docs/img/2.png)
