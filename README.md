@@ -89,7 +89,7 @@ TTLock is a trademark of its respective owner. LocalControl is an independent pr
 TTLock является товарным знаком его владельца. LocalControl — независимый проект, не связанный с TTLock и не одобренный или спонсируемый им.
 
 ## Шлюзы / Gateways
-<img src="docs/img/localcontrol.jpg" width="320">
+<img src="docs/img/localcontrol.png" width="320">
 
 ## Веб-интерфейс / Web UI
 ![Dashboard](docs/img/0.png)
