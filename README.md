@@ -1,3 +1,11 @@
+## Шлюзы / Gateways & Веб-интерфейс / Web UI
+<p>
+<img src="docs/img/ИМЯ_ФОТО_ШЛЮЗОВ.png" width="24%">
+<img src="docs/img/0.png" width="24%">
+<img src="docs/img/1.png" width="24%">
+<img src="docs/img/2.png" width="24%">
+</p>
+
 # LocalControl
 
 Demo web panel for a TTLock-compatible smart lock management system via a fleet of ESP32 gateways — local, with no mandatory dependency on the manufacturer's cloud. The ESP32 gateway is purchased separately.
@@ -89,5 +97,9 @@ TTLock is a trademark of its respective owner. LocalControl is an independent pr
 TTLock является товарным знаком его владельца. LocalControl — независимый проект, не связанный с TTLock и не одобренный или спонсируемый им.
 
 ## Шлюзы / Gateways & Веб-интерфейс / Web UI
-<img src="docs/img/localcontrol.png" width="320">
-<img src="docs/img/0.png" width="32%"> <img src="docs/img/1.png" width="32%"> <img src="docs/img/2.png" width="32%">
+<p>
+<img src="docs/img/ИМЯ_ФОТО_ШЛЮЗОВ.png" width="24%">
+<img src="docs/img/0.png" width="24%">
+<img src="docs/img/1.png" width="24%">
+<img src="docs/img/2.png" width="24%">
+</p>
