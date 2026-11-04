@@ -92,6 +92,6 @@ TTLock является товарным знаком его владельца.
 <img src="docs/img/localcontrol.png" width="320">
 
 ## Веб-интерфейс / Web UI
-![Dashboard](docs/img/0.png)
-![Locks](docs/img/1.png)
-![Locks](docs/img/2.png)
+<img src="docs/img/0.png" width="600">
+<img src="docs/img/1.png" width="600">
+<img src="docs/img/2.png" width="600">
